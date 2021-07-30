@@ -5,7 +5,10 @@
 ## Finalidad del proyecto
 
 
-El siguiente trabajo tendra como objetivo investigar la base de datos de la empresa **_TotalFrenos_**, para que se logre realizar de forma eficiente la busqueda de informacion mediante la patente de los vehiculos y los servicios realizados anteriormente a sus clientes con el historial de comentarios que contienen  los registros en una base de datos no estrutrada, los factores son la Marca del vehiculo, el Modelo, Comentario, la Fecha y un analisis estadisticos de los datos con la finalidad de lograr contrastar dicha informacion a su numero de stock en repuestos para cada vehiulo (rotacion de inventarios), concluyendo que del total de vehiculos ingresados un 20% corresponden a la marca chevrolet y un 10% corresponde al modelo especifico toyota yaris, es decir un 30% del total del stock disponible deberia estar concentrado en esta marca y en ese modelo en especifico para generar una cantidad adecuada de oferta disponible ante la demanda de dichos productos en el periodo de estudio determinado. 
+El siguiente proyecto tendra como objetivo aportar en la toma de decisión en el caso de la compra de un producto (auriculares-headset) que cumpla con la funcionalidad de desempeñarse de manera correcta (un audio nítido o funciones como supresión de eco acústico) en dos hambitos teletrabajo y gaming  
+
+
+la base de datos de la empresa **_TotalFrenos_**, para que se logre realizar de forma eficiente la busqueda de informacion mediante la patente de los vehiculos y los servicios realizados anteriormente a sus clientes con el historial de comentarios que contienen  los registros en una base de datos no estrutrada, los factores son la Marca del vehiculo, el Modelo, Comentario, la Fecha y un analisis estadisticos de los datos con la finalidad de lograr contrastar dicha informacion a su numero de stock en repuestos para cada vehiulo (rotacion de inventarios), concluyendo que del total de vehiculos ingresados un 20% corresponden a la marca chevrolet y un 10% corresponde al modelo especifico toyota yaris, es decir un 30% del total del stock disponible deberia estar concentrado en esta marca y en ese modelo en especifico para generar una cantidad adecuada de oferta disponible ante la demanda de dichos productos en el periodo de estudio determinado. 
 
 #**_Paginas web_** 
 
