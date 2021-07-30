@@ -1,4 +1,4 @@
-# Comparacion de precios de audifonos en distintas paginas web
+# WebScraping una herramienta para la toma de decisiones 
 
 ![image](https://www.cadenadial.com/wp-content/uploads/2018/04/GettyImages-511030196.jpg)
 
